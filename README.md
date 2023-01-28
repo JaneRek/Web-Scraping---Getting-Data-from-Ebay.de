@@ -1,5 +1,6 @@
 # Web-Scraping---Getting-Data-from-Ebay.de
-In this project Python code is used for getting data from Ebay.de site
+In this project Python code is used for getting data from Ebay.de site.
+You enter a search word, and Excel file with the list of found items on Ebay.de is generated, with the price, discount, shipment conditions etc.
 
 See the uploaded file "RunningCodeResults.pdf" for the illustration of the results.
 
